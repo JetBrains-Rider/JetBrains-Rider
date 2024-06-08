@@ -1,3 +1,3 @@
 ```math
-\html{x + y = z}
+\(\html{x + y = z}\)
 ```
