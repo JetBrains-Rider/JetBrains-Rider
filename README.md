@@ -1,3 +1,3 @@
 ```math
-$&alpha; + &beta; = &gamma;$
+$goombafont; + &beta; = &gamma;$
 ```
