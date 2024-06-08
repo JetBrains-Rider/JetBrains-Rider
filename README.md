@@ -1,3 +1,3 @@
 ```math
-\ce{$\text[color:red;]{x0000}$}
+\ce{$\unicode[color:red;]{x0000}$}
 ```
