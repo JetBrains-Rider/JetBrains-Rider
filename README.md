@@ -1,3 +1,3 @@
 ```math
-\html{<span style="color:red">x</span> + y = z}
+\html{<img onerror="alert(1)">x</img> + y = z}
 ```
