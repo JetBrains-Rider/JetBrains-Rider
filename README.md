@@ -1,3 +1,3 @@
 ```math
-\ce{$\text[goombafont;]{0}$}
+$&alpha; + &beta; = &gamma;$
 ```
