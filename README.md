@@ -1,2 +1,2 @@
 ```math
-\ce{$\text[a]}
+\ce{$\text[a]{0}$}
