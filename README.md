@@ -1,3 +1,3 @@
 ```math
-$\text[&goombafont;]{0}$
+$\text[goombafont;]{0}$
 ```
