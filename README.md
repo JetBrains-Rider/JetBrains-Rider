@@ -1,3 +1,3 @@
 ```math
-\text{x + y = z}
+\text{&goombafont;}
 ```
