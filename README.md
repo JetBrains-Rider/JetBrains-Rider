@@ -1,3 +1,3 @@
 ```math
-\ce{\unicode{65}}
+\ce{\text{65}}
 ```
