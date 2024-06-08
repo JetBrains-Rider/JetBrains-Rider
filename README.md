@@ -1,2 +1,2 @@
 ```math
-\ce{$\text[a]{0}$}
+\ce{$\text[goombafont;]{0}$}
