@@ -1,3 +1,3 @@
 ```math
-\ce{H2o}
+\ce{\unicode{65}}
 ```
