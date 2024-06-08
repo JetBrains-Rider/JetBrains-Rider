@@ -1,3 +1,3 @@
 ```math
-$goombafont; + &beta; = &gamma;$
+\ce{$\text[color:red]{aa}$}
 ```
