@@ -1,3 +1,3 @@
 ```math
-\text{&goombafont;}
+\( \mathit{α + β = γ} \)
 ```
